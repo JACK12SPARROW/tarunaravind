@@ -7,6 +7,7 @@ int main(void)
 	scanf("%d",&num);
 	int result=num+1;
 	printf("\n%d",result);
-  getch():
+	getch();
+  
 	return 0;
 }
