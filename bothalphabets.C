@@ -30,7 +30,6 @@ int main(void)
 	else
 	{
 		printf("\n no");
-	}
-getch();
+	}getch():
 	return 0;
 }
